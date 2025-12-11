@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+pnpm-lock.yaml
+
+# Env / secrets
+.env
+.env.*
+
+# Build / dist
+dist
+build
+coverage
+
+# Editors
+.vscode/
+*.swp
+*.swo
